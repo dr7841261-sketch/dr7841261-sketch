@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi there 👋, I’m Deepak
 
-<!--
-**dr7841261-sketch/dr7841261-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Trainer | Web Developer | UI/UX Designer**  
+I help students learn **web development and UI/UX design** and build **real-world projects**.  
+Currently looking for **job opportunities in different IT sectors** to grow my career and skills.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Teaching **Web Development & UI/UX Design** at **Arth Shiksha Foundation**  
+- Building personal projects to improve my coding and design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Advanced **Python, PHP, and IoT**  
+- Modern **UI/UX tools** like Figma and Adobe XD  
+
+### 💬 Ask me about
+- **Web Development:** HTML, CSS, JavaScript, AngularJS, Bootstrap, PHP, MySQL  
+- **Programming:** Python, C  
+- **UI/UX Design:** Figma, Adobe XD, Photoshop, CorelDRAW  
+- Mentoring students in building websites and projects  
+
+### 🛠 Skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-5885AF?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+### 📊 GitHub Stats
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr7841261-sketch&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr7841261-sketch&layout=compact&theme=tokyonight)
+
+### 🐍 GitHub Snake Contribution Graph
+![Snake animation](https://github.com/dr7841261-sketch/dr7841261-sketch/blob/output/github-contribution-snake.svg)
+
+### 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/dr7841261-sketch/count.svg)
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakrastogi456/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_deepak_456/)
+
+### 😄 Pronouns
+He / Him
