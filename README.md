@@ -34,11 +34,7 @@ Currently looking for **job opportunities in different IT sectors** to grow my c
 
 ### 📊 GitHub Stats
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr7841261-sketch&show_icons=true&theme=tokyonight&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr7841261-sketch&layout=compact&theme=tokyonight)
-
-### 🐍 GitHub Snake Contribution Graph
-![Snake animation](https://github.com/dr7841261-sketch/dr7841261-sketch/blob/output/github-contribution-snake.svg)
 
 ### 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/dr7841261-sketch/count.svg)
